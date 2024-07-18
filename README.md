@@ -15,7 +15,27 @@ Objective:
 
 The Objective of this project is to perform TO-DO List Web Application in which we can add our important
 lists which we have to do.Through this TO-DO List Application it will easier for us to remember our important works.
-In this application we can add any lists whatever we need.
+In this application we can also add any works whatever we need to do on daily basis schedule.
+
+Key Activities:
+
+•Time Window: Users should be able to manage and check their daily work.
+•Reminders: Users should be able to save lists of tasks with reminders.
+•Updates: Users should be able to update or add to their lists.
+
+Technologies Used:
+
+VS Code: Visual Studio Code ,also commonly referred to as VS Code,
+is a source code editor developed by Microsoft.
+
+Key Insights:
+
+•TO-DO List application helps to organize and manage tasks.
+•TO-DO List application should have a user-friendly interface
+that makes it easy to add,edit,and complete tasks.
+•TO-DO List application stopping us from forgetting things
+and improve time management as well as workflow.
+
 
 
  

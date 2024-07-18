@@ -1,8 +1,13 @@
 Name : MONA  KUMARI
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT8WD1766
+
 Domain: Web Development
+
 Duration: July to September 2024
+
 Mentor: Neela Santhosh Kumar
 
 OVERVIEW OF THE PROJECT

@@ -25,7 +25,9 @@ In this application we can also add any works whatever we need to do on daily ba
 Key Activities:
 
 •Time Window: Users should be able to manage and check their daily work.
+
 •Reminders: Users should be able to save lists of tasks with reminders.
+
 •Updates: Users should be able to update or add to their lists.
 
 Technologies Used:
@@ -36,8 +38,10 @@ is a source code editor developed by Microsoft.
 Key Insights:
 
 •TO-DO List application helps to organize and manage tasks.
+
 •TO-DO List application should have a user-friendly interface
 that makes it easy to add,edit,and complete tasks.
+
 •TO-DO List application stopping us from forgetting things
 and improve time management as well as workflow.
 

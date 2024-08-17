@@ -8,7 +8,7 @@ Domain: Web Development
 
 Duration: July to September 2024
 
-Mentor: Neela Santhosh Kumar
+Mentor: Muzammil Ahmed
 
 OVERVIEW OF THE PROJECT:
 

@@ -32,8 +32,11 @@ Key Activities:
 
 Technologies Used:
 
-VS Code: Visual Studio Code ,also commonly referred to as VS Code,
-is a source code editor developed by Microsoft.
+HTML: Defines the layout and structure of the to-do list. This includes elements like headers, input fields, buttons, and the list container.
+
+CSS: Used to style the to-do list, including layout, colors, fonts, and spacing.
+
+JavaScript: Adds interactivity and functionality to the to-do list. This includes handling user input, updating the list, and managing tasks.
 
 Key Insights:
 
